@@ -41,5 +41,4 @@ PhishGPT is a cutting-edge phishing detection system that automatically retrieve
 
 ---
 
-## 📁 Project Structure
 
